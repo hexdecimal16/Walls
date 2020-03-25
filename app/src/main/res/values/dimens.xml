@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="text_heading">25sp</dimen>
+    <dimen name="text_heading2">22sp</dimen>
+    <dimen name="text_sub_heading">20sp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+</resources>

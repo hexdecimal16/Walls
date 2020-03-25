@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textColorTitle" format="color" />
+    <attr name="textColorTitle2" format="color" />
+    <attr name="textColorDescription" format="color" />
+    <attr name="animationTint" format="color" />
+</resources>

@@ -1,0 +1,7 @@
+TODO
+- Search implementation 1
+- Better Download system
+- Animations
+- Icon
+- Light UI optimisations 1
+- Full HD wallpaper
